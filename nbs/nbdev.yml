@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nn-zero-to-hero"
+  site-url: "https://khankanz.github.io/nn-zero-to-hero"
+  description: "Neural Networks: Zero to Hero Playlist from Andrej K."
+  repo-branch: main
+  repo-url: "https://github.com/khankanz/nn-zero-to-hero"
